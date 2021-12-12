@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877954221494",
+    "project_id": "fisintern",
+    "storage_bucket": "fisintern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877954221494:android:92aa44c9b792b0528e6d17",
+        "android_client_info": {
+          "package_name": "com.daotaotts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877954221494-n935o6klnfmqh0touqrasm023ieu3f14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljXy_ycm2S-MzT_VPeBUShcUNnUgDIjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877954221494-n935o6klnfmqh0touqrasm023ieu3f14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
